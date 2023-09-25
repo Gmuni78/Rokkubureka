@@ -31,7 +31,7 @@ public class GameManager : MonoBehaviour
         
         //TODO1 Cargo el componente UIManager de la clase UIManager.
     }
-    /* todo esto ha desaparecido
+    
     private void Update()
     {
         //Preguntamos si estamos jugando.
@@ -49,7 +49,7 @@ public class GameManager : MonoBehaviour
             }
 
         }
-    }*/
+    }
     // Para controlar el tiempo con la corrutina
     IEnumerator Asteroides()
     {
