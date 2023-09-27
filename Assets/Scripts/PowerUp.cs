@@ -12,6 +12,8 @@ public class PowerUp : MonoBehaviour
     private int powerUpID; //0 = Diparo triple, 1 = Velocidad, 2 = escudo.
     //Variable de tipo sonido para contener el laser.
     private AudioSource _audioSource;
+
+
     void Start()
     {
         //Inicializar la velocidad.
